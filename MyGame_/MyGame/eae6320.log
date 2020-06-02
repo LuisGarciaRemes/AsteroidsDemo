@@ -1,0 +1,9 @@
+Opened log file "eae6320.log"
+Initialized time
+Registered main window class "Luis' EAE6320 My Main Window Class"
+The user settings file "settings.ini" doesn't exist. Using default settings instead.
+Created main window "Luis' EAE6320 My Game -- OpenGL -- Debug"
+Set main window resolution to 512 x 512
+Failed to load shader from file data/Shaders/Vertex/standard.shader: Windows failed to open the file "data/Shaders/Vertex/standard.shader" for reading: The system cannot find the path specified.
+Failed to load shader from file data/Shaders/Vertex/standard.shader: Windows failed to open the file "data/Shaders/Vertex/standard.shader" for reading: The system cannot find the path specified.
+The application was successfully initialized
